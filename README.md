@@ -1,7 +1,7 @@
   ### Hi there 👋, I'm Rahul Joshi
  Pursuing B.Tech. from Gautam Buddha University, UP 👨🏻‍🎓 </br>
-  🌱 I’m currently learning: Web and Android </br>
-  👯 I’m looking to collaborate on Android and Web Dev </br>
+  🌱 I’m currently learning: Web-Dev and DSA</br>
+  👯 I’m looking to collaborate on Spring and Web Dev </br>
   📫 You can reach out me at:  
      <span>
   <a href="https://www.linkedin.com/in/rahul-joshi-a123a61a5/"> 
