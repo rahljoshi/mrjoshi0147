@@ -1,5 +1,5 @@
   ### Hi there 👋, I'm Rahul Joshi
- Pursuing B.Tech. from Gautam Buddha University, UP 👨🏻‍🎓 </br>
+  2'nd Year undergraduate, Pursuing Bachelor's in Information Technology 👨🏻‍🎓 </br>
   🌱 I’m currently learning: Web-Dev and DSA</br>
   👯 I’m looking to collaborate on Spring and Web Dev </br>
   📫 You can reach out me at:  
