@@ -1,6 +1,6 @@
   ### Hi there 👋, I'm Rahul Joshi
-  2'nd Year undergraduate, Pursuing Bachelor's in Information Technology 👨🏻‍🎓 </br>
-  🌱 I’m currently learning: Web-Dev and DSA</br>
+  Sophmore 👨🏻‍🎓 </br>
+  🌱 I’m currently learning: JavaScript</br>
   👯 I’m looking to collaborate on Spring and Web Dev </br>
   📫 You can reach out me at:  
      <span>
